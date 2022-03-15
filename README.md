@@ -1,3 +1,4 @@
+LOCAL
 # GitHub5-challenge
 !DOCTYPE html>
 <html lang="en">
